@@ -10,6 +10,7 @@ Create an [ESP game](http://en.wikipedia.org/wiki/ESP_game) for Matching images.
 1.Python (v3.x)
 2.Flask
 3.Pusher
+4.flask-cors
 
 ## How to play :
 
